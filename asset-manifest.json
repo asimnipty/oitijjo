@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/oitijjo/static/css/main.2d261984.css",
-    "main.js": "/oitijjo/static/js/main.9517876d.js",
+    "main.css": "/oitijjo/static/css/main.261ca850.css",
+    "main.js": "/oitijjo/static/js/main.41fd1c9b.js",
     "index.html": "/oitijjo/index.html",
-    "main.2d261984.css.map": "/oitijjo/static/css/main.2d261984.css.map",
-    "main.9517876d.js.map": "/oitijjo/static/js/main.9517876d.js.map"
+    "main.261ca850.css.map": "/oitijjo/static/css/main.261ca850.css.map",
+    "main.41fd1c9b.js.map": "/oitijjo/static/js/main.41fd1c9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d261984.css",
-    "static/js/main.9517876d.js"
+    "static/css/main.261ca850.css",
+    "static/js/main.41fd1c9b.js"
   ]
 }
