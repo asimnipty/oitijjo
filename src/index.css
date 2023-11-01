@@ -2,3 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@layer base {
+    body {
+        
+        @apply bg-[url('https://wallpapercave.com/wp/wp2435782.jpg')] flex;
+    
+        
+    }
+    
+}
+
