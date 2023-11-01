@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oitijjo/static/css/main.2d261984.css",
+    "main.js": "/oitijjo/static/js/main.9517876d.js",
+    "index.html": "/oitijjo/index.html",
+    "main.2d261984.css.map": "/oitijjo/static/css/main.2d261984.css.map",
+    "main.9517876d.js.map": "/oitijjo/static/js/main.9517876d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d261984.css",
+    "static/js/main.9517876d.js"
+  ]
+}
