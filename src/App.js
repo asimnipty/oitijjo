@@ -12,13 +12,8 @@ import Footer from "./component/Footer"
 
 function App() {
   return (
-    <div className=" overflow-hidden">
-      <Router>
-        <Routes>
-          <Route path="/" element={<Header />} />
-          <Route path="/" element={<Home />} />
-        </Routes>
-      </Router>
+    <div >
+      <Header />
 
       
     </div>
