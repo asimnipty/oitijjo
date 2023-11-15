@@ -6,7 +6,7 @@
 @layer base {
     body {
         
-        @apply bg-[url('https://static.vecteezy.com/system/resources/previews/016/005/139/non_2x/damask-fleur-de-lis-pattern-origin-seamless-background-wallpaper-fleur-de-lis-pattern-scandinavian-batik-digital-texture-design-for-print-printable-fabric-saree-border-vector.jpg')];
+        @apply bg-slate-400;
     
         
     }
