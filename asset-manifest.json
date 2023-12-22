@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/oitijjo/static/css/main.f44f2670.css",
-    "main.js": "/oitijjo/static/js/main.9705321c.js",
-    "static/media/logo.jpeg": "/oitijjo/static/media/logo.fba1ef0fc51c79b26f1b.jpeg",
+    "main.css": "/oitijjo/static/css/main.06eb6018.css",
+    "main.js": "/oitijjo/static/js/main.d85d78bd.js",
+    "static/media/Logo-removebg-preview.png": "/oitijjo/static/media/Logo-removebg-preview.cd68cc0065aa7456e2d6.png",
     "index.html": "/oitijjo/index.html",
-    "main.f44f2670.css.map": "/oitijjo/static/css/main.f44f2670.css.map",
-    "main.9705321c.js.map": "/oitijjo/static/js/main.9705321c.js.map"
+    "main.06eb6018.css.map": "/oitijjo/static/css/main.06eb6018.css.map",
+    "main.d85d78bd.js.map": "/oitijjo/static/js/main.d85d78bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f44f2670.css",
-    "static/js/main.9705321c.js"
+    "static/css/main.06eb6018.css",
+    "static/js/main.d85d78bd.js"
   ]
 }
