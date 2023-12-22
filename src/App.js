@@ -7,6 +7,7 @@ import Blog from "./component/Blog";
 import Home from "./component/Home";
 import Lifestyle from "./component/Lifestyle";
 import Footer from "./component/Footer"
+import ProCard from "./component/ProCard";
 
 
 
@@ -14,6 +15,8 @@ function App() {
   return (
     <div >
       <Header />
+      <Hero />
+      <ProCard />
 
       
     </div>

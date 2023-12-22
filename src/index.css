@@ -6,7 +6,7 @@
 @layer base {
     body {
         
-        @apply bg-slate-400;
+        @apply bg-blue-200;
     
         
     }
