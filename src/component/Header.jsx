@@ -32,7 +32,7 @@ const Header = () => {
       
       {/* side menu */}
       
-      <div className={nav ? 'fixed top-0 left-0 w-[300px] h-screen bg-white duration-300': 'fixed top-0 left-[-100%] w-[300px] h-screen bg-white duration-300'}>
+      <div className={nav ? ' z-[9999] fixed top-0 left-0 w-[300px] h-screen bg-white duration-300': 'fixed z-[9999] top-0 left-[-100%] w-[300px] h-screen bg-white duration-300'}>
         <AiOutlineClose size={30} onClick={()=>setNav()} className=' absolute right-4 top-4 cursor-pointer'/>
         <div className='flex'>
           <img src={logo} className='pt-4 pl-5 h-12 cursor-pointer' />
