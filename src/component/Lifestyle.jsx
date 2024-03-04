@@ -1,8 +1,10 @@
 import React from 'react'
 
 const Lifestyle = () => {
-  return (
+
+(
     <div>Lifestyle</div>
+
   )
 }
 
