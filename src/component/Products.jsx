@@ -1,6 +1,10 @@
-import React from 'react'
+import React, {useState} from 'react'
+import { data } from './data'
 
 const Products = () => {
+  
+  const [produts, setProducts] = useState(data)
+  
   return (
     <div className=' max-w-[1640px] m-auto px-4 py-12'>
       <h1 className=' text-orange-500 font-bold text-4xl text-center'> TOP Rated Products</h1>
@@ -18,8 +22,13 @@ const Products = () => {
           </div>
         </div>
       </div>
+      {/* product display */}
       <div>
-        
+        {produts.map((saj, index)=> (
+          <div>
+            <img src={saj.image} alt={saj.index}/>
+          </div>
+        ))}
       </div>
     </div>
   )
