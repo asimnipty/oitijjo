@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/oitijjo/static/css/main.a0d4cd80.css",
-    "main.js": "/oitijjo/static/js/main.c40ee09c.js",
+    "main.css": "/oitijjo/static/css/main.865098fc.css",
+    "main.js": "/oitijjo/static/js/main.10e4ee86.js",
     "static/js/769.bd563e8e.chunk.js": "/oitijjo/static/js/769.bd563e8e.chunk.js",
     "static/js/81.982b634a.chunk.js": "/oitijjo/static/js/81.982b634a.chunk.js",
+    "static/media/b4.jpg": "/oitijjo/static/media/b4.7e40590529e5b2284e82.jpg",
     "static/media/dress1.jpeg": "/oitijjo/static/media/dress1.fc953f2881ee1047d33c.jpeg",
+    "static/media/dress3.jpeg": "/oitijjo/static/media/dress3.25c42fe9fc36f553b87d.jpeg",
+    "static/media/b3.jpg": "/oitijjo/static/media/b3.eac51f91994a5c1a7087.jpg",
+    "static/media/b2.jpg": "/oitijjo/static/media/b2.3bab4d33b408943f6a50.jpg",
+    "static/media/dress2.jpeg": "/oitijjo/static/media/dress2.257942e7d26531b1cfa2.jpeg",
+    "static/media/b1.jpg": "/oitijjo/static/media/b1.8695b092da903f50d882.jpg",
+    "static/media/dress6.jpeg": "/oitijjo/static/media/dress6.907a6669a5eed6504c73.jpeg",
+    "static/media/dress4.jpeg": "/oitijjo/static/media/dress4.7430b3724583be18419d.jpeg",
+    "static/media/dress5.jpeg": "/oitijjo/static/media/dress5.95adadc2c48359dc57f2.jpeg",
     "static/media/Logo-removebg-preview.png": "/oitijjo/static/media/Logo-removebg-preview.cd68cc0065aa7456e2d6.png",
     "index.html": "/oitijjo/index.html",
-    "main.a0d4cd80.css.map": "/oitijjo/static/css/main.a0d4cd80.css.map",
-    "main.c40ee09c.js.map": "/oitijjo/static/js/main.c40ee09c.js.map",
+    "main.865098fc.css.map": "/oitijjo/static/css/main.865098fc.css.map",
+    "main.10e4ee86.js.map": "/oitijjo/static/js/main.10e4ee86.js.map",
     "769.bd563e8e.chunk.js.map": "/oitijjo/static/js/769.bd563e8e.chunk.js.map",
     "81.982b634a.chunk.js.map": "/oitijjo/static/js/81.982b634a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d4cd80.css",
-    "static/js/main.c40ee09c.js"
+    "static/css/main.865098fc.css",
+    "static/js/main.10e4ee86.js"
   ]
 }
