@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oitijjo/static/css/main.865098fc.css",
-    "main.js": "/oitijjo/static/js/main.8792b806.js",
+    "main.css": "/oitijjo/static/css/main.2a32a628.css",
+    "main.js": "/oitijjo/static/js/main.e5ea4789.js",
     "static/js/769.bd563e8e.chunk.js": "/oitijjo/static/js/769.bd563e8e.chunk.js",
     "static/js/81.982b634a.chunk.js": "/oitijjo/static/js/81.982b634a.chunk.js",
     "static/media/b4.jpg": "/oitijjo/static/media/b4.7e40590529e5b2284e82.jpg",
@@ -14,15 +14,15 @@
     "static/media/dress6.jpeg": "/oitijjo/static/media/dress6.907a6669a5eed6504c73.jpeg",
     "static/media/dress4.jpeg": "/oitijjo/static/media/dress4.7430b3724583be18419d.jpeg",
     "static/media/dress5.jpeg": "/oitijjo/static/media/dress5.95adadc2c48359dc57f2.jpeg",
-    "static/media/Logo-removebg-preview.png": "/oitijjo/static/media/Logo-removebg-preview.cd68cc0065aa7456e2d6.png",
+    "static/media/Untitled_design-removebg-preview.png": "/oitijjo/static/media/Untitled_design-removebg-preview.c1c2f34fb27f78d5e9e9.png",
     "index.html": "/oitijjo/index.html",
-    "main.865098fc.css.map": "/oitijjo/static/css/main.865098fc.css.map",
-    "main.8792b806.js.map": "/oitijjo/static/js/main.8792b806.js.map",
+    "main.2a32a628.css.map": "/oitijjo/static/css/main.2a32a628.css.map",
+    "main.e5ea4789.js.map": "/oitijjo/static/js/main.e5ea4789.js.map",
     "769.bd563e8e.chunk.js.map": "/oitijjo/static/js/769.bd563e8e.chunk.js.map",
     "81.982b634a.chunk.js.map": "/oitijjo/static/js/81.982b634a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.865098fc.css",
-    "static/js/main.8792b806.js"
+    "static/css/main.2a32a628.css",
+    "static/js/main.e5ea4789.js"
   ]
 }
