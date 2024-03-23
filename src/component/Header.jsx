@@ -8,7 +8,7 @@ import cl from '../assets/icons/clo.png'
 import b from '../assets/icons/b.png'
 import sa from '../assets/icons/sa.png'
 import t2 from '../assets/icons/t2.png'
-import logo from '../assets/icons/Logo-removebg-preview.png'
+import logo from '../assets/Untitled_design-removebg-preview.png'
 
 
 const Header = () => {
@@ -35,8 +35,11 @@ const Header = () => {
       <div className={nav ? 'z-[9999] fixed top-0 left-0 w-[300px] h-screen bg-white duration-300': 'fixed z-[9999] top-0 left-[-100%] w-[300px] h-screen bg-white duration-300'}>
         <AiOutlineClose size={30} onClick={()=>setNav()} className=' absolute right-4 top-4 cursor-pointer'/>
         <div className='flex'>
-          <img src={logo} className='pt-4 pl-5 h-12 cursor-pointer' />
-          <h2 className='font-extrabold text-xl pl-5 pt-4' > <span className=' text-red-700'>Life</span>Style </h2>
+          <img src={logo} className='cursor-pointer w-5 h-5' />
+          <>
+          <h2 className='font-extrabold text-xl pt-4' > <span className=' text-red-700'>Life</span>Style </h2>
+          </>
+          
         </div>
         
         

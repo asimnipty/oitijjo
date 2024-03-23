@@ -1,14 +1,15 @@
 import React from 'react'
+import b3 from '../assets/images/banner/b3.jpg'
 
 const Hero = () => {
   return (
     <div className='max-w-[1640px] mx-auto p-5'>
       <div className='max-h-[500px] relative'>
-        <div className=' absolute w-full h-full text-gray-200 text-center'>
-          <h1 className='pt-6 text-xl'> Best<span className=' text-orange-300'> Style</span> </h1>
-          <h1 className='pt-6 text-2xl'> Live <span className='text-orange-300'>Your Life</span></h1>
+        <div className=' absolute w-full h-full text-white text-center'>
+          <h1 className='pt-6 text-3xl'> Best<span className='text-black'> Style</span> </h1>
+          <h1 className='pt-6 text-4xl'> Live <span className='text-black'>Your Life</span></h1>
         </div>
-        <img className='w-full max-h-[500px]' src='https://singhanias.in/cdn/shop/collections/4f787f63d1021eea91159dc842b3e957.jpg?v=1688999464' />
+        <img className='w-full max-h-[500px] rounded-md' src={b3} />
         
       </div>
     </div>

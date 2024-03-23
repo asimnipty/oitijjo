@@ -1,4 +1,6 @@
 
+
+
 export const data = [
     {
         id: 1,
@@ -48,5 +50,8 @@ export const data = [
         price: 2000
 
     }
+    
+
 
 ]
+
